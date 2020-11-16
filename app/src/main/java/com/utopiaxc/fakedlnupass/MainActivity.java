@@ -2,6 +2,7 @@ package com.utopiaxc.fakedlnupass;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
@@ -61,6 +62,10 @@ public class MainActivity extends AppCompatActivity {
 
     private void Generate(){
         buttonGenerate.setOnClickListener(e->{
+
+            Intent intent=new Intent(MainActivity.this,ActivityPass.class);
+            startActivity(intent);
+
             Number=editTextNumber.getText().toString();
             Name=editTextName.getText().toString();
             Sex=editTextSex.getText().toString();
