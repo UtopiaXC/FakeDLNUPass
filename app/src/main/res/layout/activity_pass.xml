@@ -117,7 +117,7 @@
                 android:id="@+id/textViewProfessionalClass"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="班级："
+                android:text="专业班级："
                 android:textColor="#FFFFFF"
                 android:textSize="16sp"
                 android:layout_marginStart="20dp"

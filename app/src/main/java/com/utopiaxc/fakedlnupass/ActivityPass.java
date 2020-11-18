@@ -45,7 +45,7 @@ public class ActivityPass extends AppCompatActivity {
         textViewFaculty.setText("院系："+variables.Faculty);
 
         TextView textViewClass = findViewById(R.id.textViewProfessionalClass);
-        textViewClass.setText("班级："+variables.ProfessionalClass);
+        textViewClass.setText("专业班级："+variables.ProfessionalClass);
 
         TextView textViewTime = findViewById(R.id.textViewTime);
         textViewTime.setText("有效期：\n"+variables.StartTime+" 至 "+variables.EndTime);
