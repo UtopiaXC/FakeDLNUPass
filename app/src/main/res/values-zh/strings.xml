@@ -14,4 +14,6 @@
     <string name="warning">警告</string>
     <string name="content_not_filled">您有未填写的项目！</string>
     <string name="confirm">确认</string>
+    <string name="pass_title_one">大连民族大学</string>
+    <string name="pass_title_two">疫情防控期间出入证</string>
 </resources>

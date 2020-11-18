@@ -5,90 +5,90 @@
     android:layout_height="30dp">
 
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass01" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass02" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass03" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass04" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass05" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass06" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass07" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass08" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass09" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass10" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass11" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass12" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass13" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass14" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass15" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass16" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass17" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass18" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass19" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass20" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass21" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass22" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass23" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass24" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass25" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass26" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass27" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass28" />
     <item
-        android:duration="60"
+        android:duration="40"
         android:drawable="@drawable/pass29" />
 </animation-list>

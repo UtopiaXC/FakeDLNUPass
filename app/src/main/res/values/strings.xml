@@ -13,4 +13,6 @@
     <string name="warning">Warning</string>
     <string name="content_not_filled">Some items unfilled!</string>
     <string name="confirm">Confirm</string>
+    <string name="pass_title_one">大连民族大学</string>
+    <string name="pass_title_two">疫情防控期间出入证</string>
 </resources>

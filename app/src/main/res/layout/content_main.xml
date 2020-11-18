@@ -25,7 +25,7 @@
                 android:id="@+id/editTextNumber"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginVertical="15dp"
+                android:layout_marginVertical="10dp"
                 android:ems="10"
                 android:inputType="number"
                 android:hint="@string/number"
@@ -35,7 +35,7 @@
                 android:id="@+id/editTextName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginVertical="15dp"
+                android:layout_marginVertical="10dp"
                 android:ems="10"
                 android:importantForAutofill="no"
                 android:inputType="textPersonName"
@@ -45,7 +45,7 @@
                 android:id="@+id/editTextSex"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginVertical="15dp"
+                android:layout_marginVertical="10dp"
                 android:ems="10"
                 android:inputType="textPersonName"
                 android:hint="@string/sex"
@@ -55,7 +55,7 @@
                 android:id="@+id/editTextFaculty"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginVertical="15dp"
+                android:layout_marginVertical="10dp"
                 android:ems="10"
                 android:inputType="textPersonName"
                 android:hint="@string/faculty"
@@ -65,7 +65,7 @@
                 android:id="@+id/editTextClass"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginVertical="15dp"
+                android:layout_marginVertical="10dp"
                 android:ems="10"
                 android:inputType="textPersonName"
                 android:hint="@string/professional_class"
@@ -75,28 +75,28 @@
                 android:id="@+id/buttonStartTime"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginVertical="15dp"
+                android:layout_marginVertical="10dp"
                 android:text="@string/start_time" />
 
             <Button
                 android:id="@+id/buttonEndTime"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginVertical="15dp"
+                android:layout_marginVertical="10dp"
                 android:text="@string/end_time" />
 
             <Button
                 android:id="@+id/buttonChoosePhoto"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginVertical="15dp"
+                android:layout_marginVertical="10dp"
                 android:text="@string/choose_photo" />
 
             <Button
                 android:id="@+id/buttonGenerate"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginVertical="15dp"
+                android:layout_marginVertical="10dp"
                 android:text="@string/generate" />
         </LinearLayout>
     </ScrollView>

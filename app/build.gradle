@@ -26,6 +26,11 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+    repositories {
+        maven {
+            url "https://jitpack.io"
+        }
+    }
 }
 
 dependencies {
@@ -38,4 +43,9 @@ dependencies {
     testImplementation 'junit:junit:4.13.1'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    implementation 'cn.qqtheme.framework:WheelPicker:1.4.5'                //时间选择器
+    implementation 'cn.qqtheme.framework:FilePicker:1.4.5'
+    implementation 'cn.qqtheme.framework:ColorPicker:1.4.5'
+    implementation 'com.github.donkingliang:ImageSelector:2.2.0'
 }
